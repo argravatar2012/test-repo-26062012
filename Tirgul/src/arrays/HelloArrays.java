@@ -58,12 +58,9 @@ public class HelloArrays {
 				maxIndex = i;
 			}
 		}
-		
+			
 		System.out.println("Max:"+max);
 		System.out.println("Max Index:"+maxIndex);
-		
-		
-		
 		
 	}
 	public static void main(String[] args) {
