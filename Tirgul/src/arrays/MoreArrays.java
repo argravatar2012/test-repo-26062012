@@ -1,5 +1,7 @@
 package arrays;
 
+import java.util.Arrays;
+
 public class MoreArrays {
 
 	public void testStringArray(){
@@ -78,6 +80,11 @@ public class MoreArrays {
 		}
 		
 		System.out.println("");
+	}
+	
+	public void sort1(){
+		int a[] = new int[]{-5,4,-10,6};
+		
 	}
 	
 	public static void main(String[] args) {
