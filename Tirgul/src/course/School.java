@@ -10,6 +10,9 @@ public class School {
 		
 		Group g3 = new DbAdmin();
 		
+		System.out.println(g1);
+		System.out.println(g2);
+		
 		classRoom.active(g1);
 		classRoom.active(g2);
 		classRoom.active(g3);
